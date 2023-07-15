@@ -1,0 +1,8 @@
+/* .navbar {
+  scale: 0;
+  transition: all 0.3s ease-in-out;
+} */
+
+.scrolled {
+  display: block;
+}
